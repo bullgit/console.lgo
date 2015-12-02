@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Console.Lego",
+  "name": "console.lgo",
   "description": "For fast typer console.log power user",
   "version": "1.0",
   "content_scripts": [
