@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Console.Lego",
+  "description": "For fast typer console.log power user",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["console.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
