@@ -1,4 +1,4 @@
-var lgo = ['console.lo = console.lol = console.og = console.lgo = console.loo = console.lego = console.log'].join('\n');
+var lgo = ['console.lo = console.lol = console.og = console.lob = console.lgo = console.loo = console.lego = console.log'].join('\n');
 
 var script = document.createElement('script');
 script.textContent = lgo;
